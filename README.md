@@ -1,8 +1,8 @@
-###############################################################################################
+#######################################################################################
 
                                     # Client Query Management System
 
-###############################################################################################
+#######################################################################################
 
 In this project, I have created a web application with the help of Streamlit package for creating a 
 web application, SQLite pacakage like as a Database, Pandas and Numpy for handling the data, and
