@@ -1,8 +1,8 @@
-#####################################################################################################
+###############################################################################################
 
                                     # Client Query Management System
 
-#####################################################################################################
+###############################################################################################
 
 In this project, I have created a web application with the help of Streamlit package for creating a 
 web application, SQLite pacakage like as a Database, Pandas and Numpy for handling the data, and
@@ -20,6 +20,13 @@ This project contains the following steps to complete in a fantastic and easiest
 
 ## Steps to developing the Client Query Management System:
 ==========================================================
+
+## Prepareation of the Virtual Environment:
+-------------------------------------------
+
+  1.  Install Python with version as it is mentioned in the 1_python_versions.txt file
+  2.  Install the requirements as mentioned in the 2_requirements.txt file
+  3.  Activate the environment and start the project. 
 
 ## Step I:   Database and Tables Creation:-
 ------------------------------------------
