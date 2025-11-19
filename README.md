@@ -5,10 +5,10 @@
 #######################################################################################
 
 In this project, I have created a web application with the help of Streamlit package for creating a 
-web application, SQLite pacakage like as a Database, Pandas and Numpy for handling the data, and
+web application, SQLite pacakage for a Database, Pandas and Numpy for handling the data, and
 Matplotlib for visualizing the data in python(Ver. 3.10.5).
 
-Here, I have given the procedures how I have created and completed this project.
+Here, I have given the procedures from how I have created to how I have completed this project.
 
 This project contains the following steps to complete in a fantastic and easiest way.
 
@@ -32,7 +32,7 @@ This project contains the following steps to complete in a fantastic and easiest
 ------------------------------------------
 
     1. In this project , we should create a database and two tables has to be created in that. All the 
-    and the flow of each and everything is available in the .ipynb file
+    steps and the flow of each and everything is available in the .ipynb file
 
     2. We need to create a database using sqlite in python.
 
@@ -41,19 +41,19 @@ This project contains the following steps to complete in a fantastic and easiest
     pacakage installation of this.
 
     4. I would like to you go through that file line by line. It is very easy to understatnd and much 
-    useful to paractice this to do.
+    useful to paractice this.
 
 ## Step II: Main Page Creation:
 ------------------------------
 
-    1. In this project, we used the streamlit package only for making the main page.
+    1. In this project, I used the streamlit package only, for making the main page.
 
     2. Set the page configuration to display the content in the web page.
 
     3. Menubar has been used for the display the login and register menu in the main page.
 
     4. In 'Register' menu, we have kept a form to register the user in both the role is client and 
-    support as well as 'Login' menu for the login the registered user.
+    support as well as 'Login' menu for the login to the registered user.
 
     5. If you successfully logged in as a Client/Support, then it will switch you to the corressponding
     page.
@@ -67,7 +67,7 @@ This project contains the following steps to complete in a fantastic and easiest
 
     3. The hashlib password method has been implemented in thi file to convert the query page itself
 
-    4. Also, we have kept two functions named as register_user and login_user. Both the function is 
+    4. Also, I have kept two functions named as register_user and login_user. Both the function is 
     taking over of the back end(Database part) of the main page.
 
 ## Step IV: Client Page Creation:
@@ -91,7 +91,7 @@ This project contains the following steps to complete in a fantastic and easiest
 ## Step V: Support Page(Dashboard) Creation:
 -------------------------------------------
 
-    1. In the support page, We have imported the following packages as follows,
+    1. In the support page, I have imported the following packages as follows,
 
             streamlit as steps
             matplotlib.pyplot as plty
@@ -113,9 +113,9 @@ This project contains the following steps to complete in a fantastic and easiest
 
     8. A close the query function has implemented to care the fetch the opened queries.
 
-    9. we have displayed the queries like All, Opened, closed using filter
+    9. I have displayed the queries like All, Opened, closed using filter
 
-    10. We have created tabbed menu to have the extensive analysis of the datasets such as live intake, 
+    10. I have created tabbed menu to have the extensive analysis of the datasets such as live intake, 
     monitoring and analysis.
 
 ******************************************************************************************************
